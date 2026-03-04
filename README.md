@@ -8,7 +8,6 @@ I'm <b>Zenab Gamal</b>, an <b>MLOps Engineer</b> passionate about
 building scalable ML pipelines, automating model lifecycles, and bridging the gap between data science and production systems.
 </p>
 <p>
-📍 Based in <b>Egypt</b> <br/>
 🎯 Interested in <b>MLOps, CI/CD for ML, Model Serving, Infrastructure & Automation</b>
 </p>
 
