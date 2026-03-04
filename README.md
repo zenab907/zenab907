@@ -4,7 +4,7 @@
 </h1>
 <p>
 Welcome to my GitHub profile! <br/>
-I'm <b>Zenab Gamal</b>, an <b>MLOps Engineer</b> passionate about
+I'm <b>Zenab </b>, an <b>MLOps Engineer</b> passionate about
 building scalable ML pipelines, automating model lifecycles, and bridging the gap between data science and production systems.
 </p>
 <p>
