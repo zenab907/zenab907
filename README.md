@@ -8,12 +8,12 @@ I'm <b>Zenab </b>, an <b>MLOps Engineer</b> passionate about
 building scalable ML pipelines, automating model lifecycles, and bridging the gap between data science and production systems.
 </p>
 <p>
-🎯 Interested in <b>MLOps, CI/CD for ML, Model Serving, Infrastructure & Automation</b>
+Interested in <b>MLOps, CI/CD for ML, Model Serving, Infrastructure & Automation</b>
 </p>
 
 ---
 
-<h3>🧠 What I work with</h3>
+<h3>What I work with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
@@ -35,7 +35,7 @@ building scalable ML pipelines, automating model lifecycles, and bridging the ga
 
 ---
 
-<h3>🚀 MLOps Interests</h3>
+<h3>MLOps Interests</h3>
 <ul>
   <li>ML Pipeline Design & Orchestration</li>
   <li>Model Training, Versioning & Registry</li>
@@ -64,7 +64,7 @@ Here you will find projects related to:
 
 ---
 
-<h3>📫 Where to find me</h3>
+<h3>Where to find me</h3>
 <p>
   <a href="https://github.com/USERNAME" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/>
